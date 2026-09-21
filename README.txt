@@ -1,4 +1,4 @@
-TRISHAN LUXURIES INTERIOR — PREMIUM DEMO
+S'MART HOME INTERIORS — PREMIUM DEMO
 ==========================================
 This demo has been upgraded with:
 - Expanded content across Home, About, Services, Projects, Insights, Article and Contact.
